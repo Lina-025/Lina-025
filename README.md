@@ -1,4 +1,3 @@
 - 👀 I’m interested in UX/UI desing and Game design.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m not very familiar with github yet so I'm not doing collabs for now ^^.
+- 🌱 Currently : about to start a front-end internship.
 - 📫 How to reach me : via e-mail, you may find it on my profile. 
